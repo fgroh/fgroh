@@ -23,7 +23,7 @@
 
 
 
-  
+   ![Snake animation](https://github.com/fgroh/fgroh/blob/output/github-contribution-grid-snake.svg)
   
   
 <!--
