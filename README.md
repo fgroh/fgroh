@@ -1,81 +1,32 @@
-<h1 align="center">👋 Hi there, I'm Frank Borges</h1>
+<div align="center">
+  <h3>Hi there 👋, I'm Frank Borges</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?color=A9A9A9&size=25&center=true&vCenter=true&width=600&lines=Agile+Master+%7C+Vibecoding+Explorer;Building+Systems+with+Soul;Always+Learning+%26+Automating" alt="Typing SVG" />
+</div>
 
-<h3 align="center">
-Agile Master | AI & Automation Enthusiast | Vibecoding Explorer
-</h3>
+<br/>
 
-<p align="center">
-⚡ Turning ideas into systems • 🤖 Playing with AI • 🚀 Always learning
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,graphql,firebase,mongodb,git,figma&theme=dark" />
+</div>
 
----
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=520&lines=Vibecoding+Enthusiast;AI+Automation+Explorer;Agile+Mindset+Driven;Building+Cool+Stuff+for+Fun+and+Results" />
-</p>
+<div align="center">
+  <a href="https://github.com/fgroh">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fgroh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgroh&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117"/>
+  </a>
+</div>
 
----
+<br/>
 
-## 📊 GitHub Overview
+<div align="center">
+  <img src="https://github.com/fgroh/fgroh/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fgroh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgroh&layout=compact&theme=dracula"/>
-</p>
-
----
-
-## 🛠 Tech I Play With (auto-updated)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgroh&layout=compact&theme=dracula"/>
-</p>
-
----
-
-## 📈 Activity Flow
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fgroh&theme=dracula"/>
-</p>
-
----
-
-## 📊 Full Metrics Dashboard
-
-<p align="center">
-<img src="https://metrics.lecoq.io/fgroh?theme=dracula&plugin_languages=1&plugin_followup=1&plugin_traffic=1"/>
-</p>
-
----
-
-## 🏆 Dev Achievements (just for fun)
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fgroh&theme=dracula&row=1&column=6"/>
-</p>
-
----
-
-## 🌐 Let’s Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/frank-groh-borges/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/fgroh" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 🐍 My Contributions Snake
-
-![Snake animation](https://github.com/fgroh/fgroh/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<p align="center">
-✨ Vibecoding > Hardcoding — building with curiosity, systems and good vibes ✨
-</p>
+<div align="center">
+  <br />
+  <a href="https://www.linkedin.com/in/frank-groh-borges/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Frank%20Borges-blue?style=flat&logo=linkedin" alt="LinkedIn badge"/>
+  </a>
+</div>
