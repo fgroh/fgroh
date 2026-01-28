@@ -11,10 +11,17 @@
 
 <br/>
 
+<!-- Vibe Section: Dynamic Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&is_transparent=true" alt="Inspirational Quote" />
+</div>
+
+<br/>
+
 <div align="center">
   <a href="https://github.com/fgroh">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fgroh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgroh&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117"/>
+  <!-- Glassmorphism Style Stats: Transparent BG + No Border -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fgroh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
   </a>
 </div>
 
