@@ -1,50 +1,81 @@
-### Hi there 👋
+<h1 align="center">👋 Hi there, I'm Frank Borges</h1>
 
- <div>
-  <a href="https://github.com/fgroh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fgroh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgroh&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-    <img align="center" alt="fgroh-HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-    <img align="center" alt="fgroh-CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-    <img align="center" alt="fgroh-Js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="fgroh-Ts" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <img align="center" alt="fgroh-React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-    <img align="center" alt="fgroh-graphql" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg">
-    <img align="center" alt="fgroh-node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="fgroh-jquery" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
-    <img align="center" alt="fgroh-boot" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-    <img align="center" alt="fgroh-fire" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-    <img align="center" alt="fgroh-mongo" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+<h3 align="center">
+Agile Master | AI & Automation Enthusiast | Vibecoding Explorer
+</h3>
 
-  ![Snake animation](https://github.com/fgroh/fgroh/blob/output/github-contribution-grid-snake.svg)
-  </div>
- 
- <!--
- <div>
-  <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
--->
-  
-<!--
-**fgroh/fgroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+⚡ Turning ideas into systems • 🤖 Playing with AI • 🚀 Always learning
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=520&lines=Vibecoding+Enthusiast;AI+Automation+Explorer;Agile+Mindset+Driven;Building+Cool+Stuff+for+Fun+and+Results" />
+</p>
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fgroh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgroh&layout=compact&theme=dracula"/>
+</p>
+
+---
+
+## 🛠 Tech I Play With (auto-updated)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgroh&layout=compact&theme=dracula"/>
+</p>
+
+---
+
+## 📈 Activity Flow
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fgroh&theme=dracula"/>
+</p>
+
+---
+
+## 📊 Full Metrics Dashboard
+
+<p align="center">
+<img src="https://metrics.lecoq.io/fgroh?theme=dracula&plugin_languages=1&plugin_followup=1&plugin_traffic=1"/>
+</p>
+
+---
+
+## 🏆 Dev Achievements (just for fun)
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=fgroh&theme=dracula&row=1&column=6"/>
+</p>
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/frank-groh-borges/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/fgroh" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🐍 My Contributions Snake
+
+![Snake animation](https://github.com/fgroh/fgroh/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+✨ Vibecoding > Hardcoding — building with curiosity, systems and good vibes ✨
+</p>
